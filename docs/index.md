@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Malcolm Afonso" class="profile-photo">
+  <h1>Malcolm Afonso</h1>
+  <p><strong>Geospatial Consultant</strong></p>
+  <p><em>Simplifying Decision Making | GIS | Remote Sensing |Drone Mapping</em></p>
 </div>
 
 ---
@@ -32,15 +32,22 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+ I work with real estate developers, land investors, architects, and government decision-makers who cannot afford ambiguity—because unclear or outdated land information inevitably shows up as approval delays, boundary disputes, redesigns, capital loss, and reputational risk.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am the Founder of Spatialcraft, where we help stakeholders replace assumptions with verified ground truth at the very first step of a project—before designs are frozen, approvals are sought, or capital is committed.
+
+My approach integrates high-resolution aerial surveys, physically validated DGPS/GNSS ground data, and advanced spatial analysis into smart, reliable outputs—delivered in CAD-ready formats and through our award-winning Smart Interactive Digital Maps (SIDM™) platform, a system for spatial decision-making.
+
+Architects design on it.
+Developers plan on it.
+Investors trust it.
+Authorities review it.
+
+Over the years, I’ve worked on land due diligence, project site feasibility studies, construction progress monitoring, village-level geospatial mapping, statewide GIS portal development, wetland assessments, and digital planning initiatives across Goa. I have also led citizen-science efforts for village-level water resource mapping and planning.
+
+My goal is simple: bring clarity, precision, and transparency to land and infrastructure decision-making—simplifying complexity through a “one map, all answers” approach.
+
+If you’re planning a project, evaluating land, or exploring geospatial solutions, I’m happy to help you understand what’s possible.
 
 </div>
 
@@ -53,7 +60,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Malcolm-CV.pdf){ .md-button }
 
 
 ---
