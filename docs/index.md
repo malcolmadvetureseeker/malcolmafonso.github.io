@@ -73,9 +73,8 @@ If you’re planning a project, evaluating land, or exploring geospatial solutio
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
+    - QGIS, Google Earth Engine
+    - Multispectral image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
@@ -83,15 +82,14 @@ If you’re planning a project, evaluating land, or exploring geospatial solutio
     ---
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
+    - JavaScript — Leaflet, openlayers
     - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
+    - Supervised classification — Random Forest, XGBoost, SVM
     - Deep learning for image segmentation — U-Net, SAM
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
@@ -100,7 +98,6 @@ If you’re planning a project, evaluating land, or exploring geospatial solutio
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
     - Cloud storage — AWS S3, Google Cloud Storage
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
@@ -116,7 +113,7 @@ If you’re planning a project, evaluating land, or exploring geospatial solutio
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
+    - Photogrammetry: PIX4D Mapper, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
 </div>
 
